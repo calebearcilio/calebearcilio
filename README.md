@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Calebe Arcilio!
+# 👋 Olá, eu sou Calebe Arcilio!
 
 ## Sobre mim
 🎓 Atualmente sou Técnico em Manutenção e Suporte em Informática e estou cursando Bacharelado em Ciência da Computação. 
