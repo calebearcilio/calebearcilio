@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Calebe Arcilio!
+# 👋 Olá, eu sou Calebe!
 
 ## Sobre mim
 🎓 Atualmente sou Técnico em Manutenção e Suporte em Informática e estou cursando Bacharelado em Ciência da Computação. 
@@ -8,7 +8,7 @@
 🔧 Durante meu curso técnico, tive uma experiência de aproximadamente 6 mêses em Estágio supervisionado, o que me permitiu desenvolver habilidades práticas na área.
 
 ## 🚀 Tecnologias e Ferramentas
-- **Linguagens que gosto:** Python, C, PHP
+- **Linguagens que gosto:** Python, C
 - **Outras experiências:** React, Arduino
 
 ## 📫 Contato
