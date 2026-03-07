@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Linguagens estudadas</h3>
+<h3 align="left">🛠️ Linguagens estudadas</h3>
 
 ###
 
