@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Olá, eu sou o Calebe 👋</h1>
+<h1 align="center">Olá, eu sou o Calebe <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="auto"> </h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠️ Linguagens estudadas</h3>
+<h3 align="left">🛠️ Programming languages</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">🧩 Tecnologias trabalhadas</h3>
+<h3 align="left">🧩 Tech Stack</h3>
 
 ###
 
@@ -94,10 +94,22 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   </a>
 </div>
+<img width="12" />
 
 ###
 
-<h4 align="left">📫 Contato</h4>
+<h4 align="center"> 📊 GitHub Status</h4>
+
+###
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calebearcilio&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebearcilio&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+
+###
+
+<h4 align="left">📫 Contatos</h4>
 
 ###
 
